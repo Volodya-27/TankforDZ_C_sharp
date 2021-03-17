@@ -1,0 +1,6 @@
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\obj\Release\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\linec\source\repos\WorldOfTanks\ClassLibrary1\obj\Release\ClassLibrary1.pdb

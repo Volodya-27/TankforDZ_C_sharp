@@ -1,0 +1,10 @@
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\bin\Debug\WorldOfTanks.exe.config
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\bin\Debug\WorldOfTanks.exe
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\bin\Debug\WorldOfTanks.pdb
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\obj\Debug\WorldOfTanks.csprojAssemblyReference.cache
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\obj\Debug\WorldOfTanks.csproj.CoreCompileInputs.cache
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\obj\Debug\WorldOfTanks.exe
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\obj\Debug\WorldOfTanks.pdb
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\bin\Debug\ClassLibrary1.dll
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\bin\Debug\ClassLibrary1.pdb
+C:\Users\linec\source\repos\WorldOfTanks\WorldOfTanks\obj\Debug\WorldOfTanks.csproj.CopyComplete
